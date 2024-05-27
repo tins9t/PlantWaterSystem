@@ -1,0 +1,7 @@
+<div>
+  <h2>Humidity Values over Time</h2>
+<div *ngIf="chartOptions">
+  <canvasjs-chart [options]="chartOptions"></canvasjs-chart>
+  <button class="btn" (click)="clickBack()">Back</button>
+</div>
+</div>

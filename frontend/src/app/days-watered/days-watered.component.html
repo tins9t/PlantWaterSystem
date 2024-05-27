@@ -1,0 +1,18 @@
+<div class="container">
+  <h2>Days Watered</h2>
+  <table class="table">
+    <thead>
+    <tr>
+      <th>Date</th>
+      <th>Watered</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let day of dayWateredValues">
+      <td>{{ day.date | date }}</td>
+      <td>{{ day.wasWatered ? 'Yes' : 'No' }}</td>
+    </tr>
+    </tbody>
+  </table>
+  <button class="btn" (click)="clickBack()">Back</button>
+</div>

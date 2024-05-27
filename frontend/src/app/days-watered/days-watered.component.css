@@ -1,0 +1,45 @@
+.container {
+  max-width: 600px;
+  padding: 20px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #006400;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.table th, .table td {
+  border: 1px solid #006400;
+  padding: 8px;
+}
+
+.table th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+

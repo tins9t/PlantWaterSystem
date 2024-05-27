@@ -1,0 +1,13 @@
+<div>
+  <h1>Plant Water System</h1>
+  <p>Select a date to review humidity values</p>
+  <div *ngFor="let date of dates">
+    <button (click)="clickDate(date)">{{ date }}</button>
+  </div>
+  <div style="margin-bottom: 30px"></div>
+  <p>Select a plant to review days watered</p>
+  <div *ngFor="let sensor of sensors">
+    <button (click)="clickPlant(sensor.sensorId)">{{ sensor.plantName }}</button>
+  </div>
+</div>
+

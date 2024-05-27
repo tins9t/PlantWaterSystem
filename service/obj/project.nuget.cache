@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnFOehnm/jf9jIaJw/tMVIzXa+OU+WN5WhchtqBuWfwefE2KgX8QrZ2Wi1cKHRXx/leuAnPKXreYJG5qkVhgkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nhi_t\\RiderProjects\\PlantWaterSystem\\service\\service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhi_t\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\nhi_t\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nhi_t\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nhi_t\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

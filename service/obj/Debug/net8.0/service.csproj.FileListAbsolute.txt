@@ -1,0 +1,15 @@
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\bin\Debug\net8.0\service.deps.json
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\bin\Debug\net8.0\service.dll
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\bin\Debug\net8.0\service.pdb
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\bin\Debug\net8.0\infrastructure.dll
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\bin\Debug\net8.0\infrastructure.pdb
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.csproj.AssemblyReference.cache
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.AssemblyInfoInputs.cache
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.AssemblyInfo.cs
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.csproj.CoreCompileInputs.cache
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.csproj.CopyComplete
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.dll
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\refint\service.dll
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\service.pdb
+C:\Users\nhi_t\RiderProjects\PlantWaterSystem\service\obj\Debug\net8.0\ref\service.dll
